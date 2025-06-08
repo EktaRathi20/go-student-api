@@ -1,0 +1,4 @@
+env: "dev"
+storage_path: "root:123456@tcp(127.0.0.1:3306)/student_db"
+http_server:
+  address: "localhost:8082"
